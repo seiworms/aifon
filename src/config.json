@@ -1,0 +1,23 @@
+{
+    "name":"aifon",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
+    "website":"publi24",
+    "twitter":"scamina",
+    "discord":"scamina rulzz",
+    "rpc":"https://sei-testnet-2-rpc.brocha.in:443",
+    "network":"atlantic-2", 
+    "collection_address":"sei1z0qkc7cu7zr8cgs3mevulmr2jq6nmpgt7ltc6q8tndzpkdvzyauqlkhllh", 
+    "nft_name_type": "default",
+    "groups":[
+        {
+            "name":"whitelist",
+            "allowlist":[
+                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
+                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
+            ] 
+        },
+        {
+            "name":"public"
+        }
+    ]
+}
